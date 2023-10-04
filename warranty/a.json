@@ -1,0 +1,37 @@
+[
+    {
+      "Mileage": 36000,
+      "time_in_service_years": 3,
+      "Vehicle Line AWS": ["M4", "R2", "ZE"],
+      "Part Num Base (Causal)": ["1007", "1015","4001"]
+    },
+    {
+      "Mileage": 25000,
+      "time_in_service_years": 2,
+      "Vehicle Line AWS": ["M4", "R2", "ZE"],
+      "Part Num Base (Causal)": ["1109","1240","15604"]
+    },
+    {
+        "Mileage": 27700,
+        "time_in_service_years": 3,
+        "Vehicle Line AWS": ["M4", "R2", "ZE"],
+        "Part Num Base (Causal)": ["1552","1700","2502344"]
+      },
+      {
+        "Mileage": 23000,
+        "time_in_service_years": 2,
+        "Vehicle Line AWS": ["M4", "R2", "ZE"],
+        "Part Num Base (Causal)": ["12A650","1A150","1A189"]
+      },
+      {
+        "Mileage":34000 ,
+        "time_in_service_years": 2,
+        "Vehicle Line AWS": ["M4", "R2", "ZE"],
+        "Part Num Base (Causal)": ["5F250","OWNERGD","TWC01"]
+      }
+
+
+  ]
+  
+
+  
